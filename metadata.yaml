@@ -1,0 +1,24 @@
+_repo: Iloisten-ukkojen-kyla-b-Kuvaus-Kannaksen-elamasta_71986
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seppänen, Unto
+    gutenberg_agent_id: '56484'
+    url: http://www.gutenberg.org/2009/agents/56484
+description: ''
+gutenberg_issued: '2023-10-30'
+identifiers:
+  gutenberg: '71986'
+language: fi
+pgterms:marc905: 20230912070853seppnen
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Iloisten ukkojen kylä : $b Kuvaus Kannaksen elämästä'
+url: http://www.gutenberg.org/ebooks/71986
