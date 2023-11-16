@@ -1,11 +1,16 @@
 _repo: Iloisten-ukkojen-kyla-b-Kuvaus-Kannaksen-elamasta_71986
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seppänen, Unto
     gutenberg_agent_id: '56484'
     url: http://www.gutenberg.org/2009/agents/56484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71986#Iloisten-ukkojen-kyla-b-Kuvaus-Kannaksen-elamasta
 gutenberg_issued: '2023-10-30'
 identifiers:
   gutenberg: '71986'
